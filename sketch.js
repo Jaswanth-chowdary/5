@@ -46,7 +46,7 @@ function draw() {
 
   fill(255);
   textSize(30);
-  text("NEWTON'S CRADLE by Mrunank", width/2-220, height-60);
+  text("NEWTON'S CRADLE by Jaswanth chowary", width/2-220, height-60);
   text("Drag the left bob and release it", width/2-220, height-20);
 
  
